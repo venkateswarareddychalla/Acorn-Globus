@@ -31,7 +31,7 @@ const QuickAddForms = () => {
   const handleSubmit = async (endpoint, data, setter) => {
     try {
       const token = localStorage.getItem("token");
-      await axios.post(`http://localhost:5000${endpoint}`, data, {
+      await axios.post(`https://acorn-globus-dge9.onrender.com${endpoint}`, data, {
         headers: {
           'Authorization': `Bearer ${token}`,
           'Content-Type': 'application/json'
