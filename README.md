@@ -8,6 +8,16 @@ A full-stack web application for managing sports facility court bookings with ad
 
 ---
 
+## 🔐 Admin Login Credentials
+
+> **IMPORTANT**: Use these credentials to access the admin dashboard
+
+- **Email**: `venkateswarareddychalla6@gmail.com`
+- **Password**: `Password`
+- **Admin Dashboard**: http://localhost:5173/admin (after login)
+
+---
+
 ## 📋 Table of Contents
 
 - [Features](#-features)
